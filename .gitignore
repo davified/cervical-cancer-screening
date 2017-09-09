@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+**/*.jpg
+vgg16.pyc
+*.7z
+*.zip
